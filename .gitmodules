@@ -7,3 +7,6 @@
 [submodule "modules/waf"]
 	path = modules/waf
 	url = https://gitlab.com/ita1024/waf.git
+[submodule "modules/waf-unittest"]
+	path = modules/waf-unittest
+	url = git@github.com:kmaehashi/waf-unittest.git
