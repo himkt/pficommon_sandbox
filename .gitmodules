@@ -1,0 +1,9 @@
+[submodule "waf"]
+	path = waf
+	url = https://gitlab.com/ita1024/waf.git
+[submodule "modules/pficommon"]
+	path = modules/pficommon
+	url = git@github.com:himkt/pficommon.git
+[submodule "modules/waf"]
+	path = modules/waf
+	url = https://gitlab.com/ita1024/waf.git
